@@ -1,0 +1,25 @@
+Biodata 
+
+UTS INT PUB 2
+
+1083000136 / Adam Virgiansa / 7F
+
+- Database pada folder sql_database
+- Ekstrak / langsung import di php my admin.
+
+------------
+Login Admin :
+
+USERNAME : admin@gmail.com
+PW : admin
+
+-----------
+Login User : 
+
+USERNAME : adam@gmail.com
+PW : adam
+
+atau bisa buat user baru, di register
+
+----------
+NOTE : Maaf pak saya gak terlalu bisa css / penempatan, sudah berusaha semaksimal mungkin pak :(
